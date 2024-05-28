@@ -1,5 +1,5 @@
 # CodeSoft-Tasks
-As There are 3 program contain the python codes and using numpy and random module there are 3 program are designed 
+As There are 3 program contain the python codes and using numpy and random module there are 3 program are designed as :
 First : Basic Calculator 
 Here the calculator is designed by using python numpy module.
 Second : Rock-Paper-Sciessor Game 
